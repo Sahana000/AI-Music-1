@@ -1,0 +1,25 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    border-radius: 20px;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+body
+{
+    background-size: cover;
+}
+.start_button
+{
+    width: 130px;
+    font-size: 25px;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+}
